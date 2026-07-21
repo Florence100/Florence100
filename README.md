@@ -2,7 +2,8 @@
 
 I'm Anastasiia — a Frontend Developer specializing in React and Next.js.
 
-## 🛠 Tech Stack
+
+## Tech Stack
 
 **Frontend**
 
@@ -15,3 +16,8 @@ I'm Anastasiia — a Frontend Developer specializing in React and Next.js.
 **Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vite,webpack)](https://skillicons.dev)
+
+## Contact with me:
+
+- Email: <a href="mailto:anastasia.gribovskaia@gmail.com">anastasia.gribovskaia@gmail.com</a>
+- Telegram: <a href="https://t.me/Florence1001">@Florence1001</a>
