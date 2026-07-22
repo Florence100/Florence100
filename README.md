@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Anastasiia — a Frontend Developer with hands-on experience in React, Next.js, TypeScript, and a full-stack awareness (Node.js, Express, MySQL). I enjoy building user-centric applications with clean code and solid performance.
+I'm Anastasiia - a Frontend Developer with hands-on experience in React, Next.js, TypeScript, and a full-stack awareness (Node.js, Express, MySQL). I enjoy building user-centric applications with clean code and solid performance.
 
 ## Tech Stack
 
